@@ -44,6 +44,10 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://Dawonlee0.github.io/Dawonlee0/docs/stats.svg)
+
+![Top Langs](https://Dawonlee0.github.io/Dawonlee0/docs/top_langs.svg)
+
 ![Dawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=radical)
