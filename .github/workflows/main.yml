@@ -1,0 +1,38 @@
+name: Generate GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정 실행
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Dawon%20Lee's%20GitHub%20Stats"
+          curl -o wakatime_stats.svg "https://github-readme-stats.vercel.app/api/wakatime?username=Dawonlee0"
+
+      - name: Commit files
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          mkdir -p docs
+          mv stats.svg docs/
+          mv wakatime_stats.svg docs/
+          git add docs/stats.svg docs/wakatime_stats.svg
+          git commit -m 'Update GitHub Stats'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
