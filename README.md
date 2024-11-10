@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=CCCCCC&fontSize=70"/>
-</div>
 
-<hr style="height:0.2px;border:none;color:#333;background-color:#333;">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=999999&fontSize=70"/>
+</div>
 
 <div align="center">
 
@@ -30,8 +29,6 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
 </p>
 
-<hr style="height:0.2px;border:none;color:#333;background-color:#333;">
-
 ### 🔧 Tools 🔧
 <p style="margin: 1px 0;">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
@@ -41,7 +38,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
 </p>
 
-<hr style="height:0.2px;border:none;color:#333;background-color:#333;">
+
 
 ## 📊 GitHub Stats
 
@@ -50,7 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=radical" height="165"/>
 </div>
 
-<hr style="height:0.2px;border:none;color:#333;background-color:#333;">
 
 ## 🤝 Let's Connect!
 
@@ -66,7 +62,7 @@
   </a>
 </div>
 
-<hr style="height:0.2px;border:none;color:#333;background-color:#333;">
+---
 
 ⭐️ From [Dawonlee0](https://github.com/Dawonlee0)
 
