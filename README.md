@@ -1,9 +1,15 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=999999&fontSize=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi!%20I'am%20Dawon!%20&reversal=false&section=header&fontColor=111111&fontAlign=50"/>
 </div>
+<div align="center">
+
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=radical" height="165"/>
+</div>
 
 ### 🛠️ Tech Stack ✨
 <p style="margin: 0px 0;">
@@ -40,12 +46,7 @@
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=radical" height="165"/>
-</div>
 
 
 ## 🤝 Let's Connect!
