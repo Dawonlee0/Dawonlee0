@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=999999&fontSize=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=CCCCCC&fontSize=70"/>
 </div>
 
 <div align="center">
