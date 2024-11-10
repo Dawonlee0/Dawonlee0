@@ -9,7 +9,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25"> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=tokyonight" height="165"/>
