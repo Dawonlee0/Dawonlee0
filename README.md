@@ -15,8 +15,10 @@
   <!-- ✅ Private 커밋 포함 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
 
-  <!-- ✅ 사용 언어 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=tokyonight" height="165"/>
+  <br> <!-- ✅ 줄바꿈 -->
+
+  <!-- ✅ 사용 언어 통계 (Private 포함) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=tokyonight&count_private=true" height="165"/>
 
 </div>
 
