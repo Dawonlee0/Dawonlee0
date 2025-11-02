@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'am%20Dawon!%20&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&desc=%&descSize=20&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30&text=Hi!%20I'm%20Dawon!%20&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descSize=20&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -11,14 +11,20 @@
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25"> GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=tokyonight" height="165"/>
+
+  <!-- ✅ Private 커밋 포함 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dawonlee0&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+
+  <!-- ✅ 사용 언어 통계 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawonlee0&layout=compact&theme=tokyonight" height="165"/>
+
 </div>
 
 <br>
 
 ## 🛠️ Tech Stack
 <div align="center">
+
   <h4>Languages</h4>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,6 +48,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   </p>
+
 </div>
 
 <br>
